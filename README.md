@@ -20,8 +20,8 @@
 ## Um Pouco Sobre Mim 📚
 
 Me formei em computação gráfica na escola SAGA, iniciei meus estudos de programação através da internet com o curso da Origamid, por vídeos no YouTube e eventos como os da Rocketseat e da DIO.
-Estou fazendo Tecnólogo em Sistema para Internet meu objetivo é se tornar um programador Front End e poder trabalhar nessa área.
+Estou fazendo Tecnólogo em Sistema para Internet, meu objetivo é se tornar um programador Front End e poder trabalhar nessa área.
 
-## Uma frase que eu leva para a vida 💭
+## Uma frase que eu levo para a vida 💭
 
 O prazer de um autodidata é provar pra ele mesmo que ele consegue superar a dor.
